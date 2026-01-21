@@ -33,4 +33,8 @@ int main()
         solve();
     return 0;
 
+
+    //added for teaching purposes
+
 }
+
