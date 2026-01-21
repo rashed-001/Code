@@ -17,4 +17,6 @@ int main()
     cout<<tmp<<endl;
      int x = atoi(tmp);
     cout<<x*mul<<endl;
+
+    return 0;
 }
